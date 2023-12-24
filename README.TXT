@@ -5,6 +5,12 @@ VERSION or DATE: 1.0 (Update with your version number or date)
 HOW TO START THIS PROJECT:
 1. Open a terminal.
 2. Compile the program using the following command:
+HOW TO START THIS PROJECT:
+1. Open a terminal.
+2. Compile the program using the following command:
+   ```bash
+   javac Files.java
+   java Files
    ```bash
    javac Menu.java
    java Menu
