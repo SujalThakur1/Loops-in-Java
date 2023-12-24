@@ -1,9 +1,14 @@
 PROJECT TITLE: Grade Calculator in Java
 PURPOSE OF PROJECT: A Java program to calculate grades based on percentage, generate mathematical tables, and perform numerical analysis.
-HOW TO START THIS PROJECT:  Open a terminal.
-                            Compile the program using the following command:
-                            ```bash
-                            javac Menu.java
+VERSION or DATE: 1.0 (Update with your version number or date)
+
+HOW TO START THIS PROJECT:
+1. Open a terminal.
+2. Compile the program using the following command:
+   ```bash
+   javac Menu.java
+   java Menu
+
 AUTHORS: Sujal Thakur
 USER INSTRUCTIONS:
 Choose from various options to calculate grades, generate mathematical tables, or perform numerical analysis.
