@@ -5,10 +5,17 @@ AUTHOR: Sujal Thakur
 
 HOW TO START THIS PROJECT:
 1. Open a terminal.
-2. Compile the program using the following command:
+2. Clone the repository:
+
+```bash
+   git clone https://github.com/SujalThakur1/Loops-in-Java.git
+   cd Loops-in-Java
+```
+3. Compile the program using the following command:
    ```bash
    javac Menu.java
    java Menu
+   ```
 USER INSTRUCTIONS:
 
 Choose from various options to calculate grades, generate mathematical tables, or perform numerical analysis.
